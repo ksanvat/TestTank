@@ -1,11 +1,11 @@
 using System;
 using System.Collections;
+using Prj.Character;
 using PrjCore.Ext.Unity;
 using PrjCore.Projectile;
-using PrjCore.Unit;
 using UnityEngine;
 
-namespace Prj.Character {
+namespace Prj.Projectile {
     public class PProjectile : PBaseProjectile {
 
         private State _bulletState = new State();

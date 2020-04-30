@@ -4,7 +4,6 @@ using PrjCore.Ext.Unity;
 using PrjCore.Unit;
 using PrjCore.Util.System;
 using UnityEngine;
-using UnityEngine.WSA;
 
 namespace Prj.Battle {
     public class PBattleMapGenerator : PUnit {

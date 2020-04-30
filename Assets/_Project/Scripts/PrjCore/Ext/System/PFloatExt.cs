@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace PrjCore.Util.System {
+namespace PrjCore.Ext.System {
     public static class PFloatExt {
         public static float AngleToDegree(this float angle) {
             return Mathf.Rad2Deg * angle;

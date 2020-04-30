@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Prj {
+namespace PrjCore.Util.Unity {
     public static class PRandomUtil {
         private static Random random = new Random();
 

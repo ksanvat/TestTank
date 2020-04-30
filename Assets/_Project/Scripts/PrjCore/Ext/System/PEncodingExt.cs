@@ -1,7 +1,7 @@
 using System.Text;
 using System.Threading;
 
-namespace PrjCore.Util.System {
+namespace PrjCore.Ext.System {
     public static class PEncodingExt {
         public static string Decode(this Encoding encoding, byte[] bytes, int chunk, CancellationToken ct) {
             if (encoding == null) {
