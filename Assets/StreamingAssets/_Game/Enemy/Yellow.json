@@ -1,0 +1,8 @@
+{
+    "Name": "Yellow",
+    "MaxHP": 75,
+    "Vulnerability": 0.75,
+    "MovementSpeed": 2,
+    "RotationSpeed": 90,
+    "Damage": 25
+}

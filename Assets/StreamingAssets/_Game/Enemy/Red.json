@@ -1,0 +1,8 @@
+{
+    "Name": "Red",
+    "MaxHP": 100,
+    "Vulnerability": 0.5,
+    "MovementSpeed": 1,
+    "RotationSpeed": 45,
+    "Damage": 50
+}

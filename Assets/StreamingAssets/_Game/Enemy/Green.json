@@ -1,0 +1,8 @@
+{
+    "Name": "Green",
+    "MaxHP": 50,
+    "Vulnerability": 1,
+    "MovementSpeed": 3,
+    "RotationSpeed": 180,
+    "Damage": 12.5
+}
